@@ -6,7 +6,7 @@
 
 ## Homebrew
 1. Lag et script som installerer Homebrew 
-2. Kjør `homebrew bundle dump` for å starte med din `Brewfile` (da kan du f.eks. skrive `homebrew bundle dump > Brewfile`)
+2. Kjør `brew bundle dump` for å starte med din `Brewfile` (da kan du f.eks. skrive `brew bundle dump > Brewfile`)
 3. Fjern gammelt ræl og kjør `brew bundle cleanup --force`
 
 ## oh-my-zsh
